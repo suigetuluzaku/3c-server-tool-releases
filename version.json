@@ -1,11 +1,11 @@
 {
-  "version": "2.0.3",
-  "notes": "Gamma Utils\u4FEE\u6B63\u30FBPrismLauncher\u81EA\u52D5\u518D\u8D77\u52D5\u30FB\u30A4\u30F3\u30B9\u30BF\u30F3\u30B9\u69CB\u9020\u4FEE\u6B63",
+  "version": "2.0.4",
+  "notes": "アップデート時の設定リセット問題を修正",
   "pub_date": "2026-04-05T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.0.3/3c.Server.Tool_2.0.3_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSazlyUUJhYlE0cXRCUEJpMTRSSUN1Rk13RjBFTEJ6NTBjV0ZGSU9ucVVOUUJUUVNGUklvaXQ2amUybmljblBxYU1jTXB1dnlYRHF0WEhrK0c0VndUQ0RpZHdqUzdZaGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MzQwNDYzCWZpbGU6M2MgU2VydmVyIFRvb2xfMi4wLjNfeDY0LXNldHVwLmV4ZQp3UTFTRDhrMDQ0U2crWlk5M1c3Um5BaHBLMTZhUm12U3FYcCtIVWtWelVDK1ZVZ3Z4VHg3eUxxb0UrdGs1YWFldVNlRUFrMCtJRWVNTUJCNlR5Y1JDZz09Cg=="
+      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.0.4/3c.Server.Tool_2.0.4_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSazlyUUJhYlE0cWdSVjdIZTZqdERyS0Vmckhpb1p5MStrYWhla3phSncvQ1VvcEk3UmFyLy81TFNEdExyMTRoUks4Rk9uTjNUN0h1ajlEWlZGN2pQay9xMm9MMkdYa3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MzQxNzYwCWZpbGU6M2MgU2VydmVyIFRvb2xfMi4wLjRfeDY0LXNldHVwLmV4ZQpYSTN3TldZbStMYVBWbkViNFRJejlCRUtQNFFyOS96akJWOTNmQVJ1a0xmcEtpK3dCbkdKbFVJbWNqb3AyYnVQK1ZralViMXRwZ3B0ak00Y1BSN0RCZz09Cg=="
     }
   }
 }
