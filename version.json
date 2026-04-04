@@ -1,6 +1,6 @@
 {
   "version": "2.0.3",
-  "notes": "Gamma Utils修正・PrismLauncher自動再起動・インスタンス構造修正",
+  "notes": "Gamma Utils\u4FEE\u6B63\u30FBPrismLauncher\u81EA\u52D5\u518D\u8D77\u52D5\u30FB\u30A4\u30F3\u30B9\u30BF\u30F3\u30B9\u69CB\u9020\u4FEE\u6B63",
   "pub_date": "2026-04-05T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
