@@ -1,1 +1,11 @@
-{"version":"2.0.2","notes":"Update test","pub_date":"2026-04-05T00:00:00Z","platforms":{"windows-x86_64":{"url":"https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.0.2/3c-Server-Tool_2.0.2_x64-setup.exe","signature":"dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSazlyUUJhYlE0cWxHQWdGM1pKUmFEUnVqcUIwOWJpbmVCMGZFMHRHeURHTFQ0RVRqVW9kTmFMSnVLQnZuK2tjanlmRHdzcExLNXF3WWU1dkNseHZRNmszcXQrTFNSTXdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MzM2NTIyCWZpbGU6M2MgU2VydmVyIFRvb2xfMi4wLjJfeDY0LXNldHVwLmV4ZQpPOGJ0cGlNbkFha3FEUTBqQUVETHNNN2VJUzN2RTFKQ2MyZWEzclVYZGRjd0I3SnlieE84L3lRb3RQTUZtVHplWGNpd3VHeENXTnlWZjJYM05TbFZEZz09Cg=="}}}
+{
+  "version": "2.0.3",
+  "notes": "Gamma Utils修正・PrismLauncher自動再起動・インスタンス構造修正",
+  "pub_date": "2026-04-05T00:00:00Z",
+  "platforms": {
+    "windows-x86_64": {
+      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.0.3/3c%20Server%20Tool_2.0.3_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSazlyUUJhYlE0cXRCUEJpMTRSSUN1Rk13RjBFTEJ6NTBjV0ZGSU9ucVVOUUJUUVNGUklvaXQ2amUybmljblBxYU1jTXB1dnlYRHF0WEhrK0c0VndUQ0RpZHdqUzdZaGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MzQwNDYzCWZpbGU6M2MgU2VydmVyIFRvb2xfMi4wLjNfeDY0LXNldHVwLmV4ZQp3UTFTRDhrMDQ0U2crWlk5M1c3Um5BaHBLMTZhUm12U3FYcCtIVWtWelVDK1ZVZ3Z4VHg3eUxxb0UrdGs1YWFldVNlRUFrMCtJRWVNTUJCNlR5Y1JDZz09Cg=="
+    }
+  }
+}
