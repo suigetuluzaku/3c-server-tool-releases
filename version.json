@@ -1,11 +1,11 @@
 {
-  "version": "2.1.0",
-  "notes": "Java自動検知・自動取得機能を追加",
+  "version": "2.1.1",
+  "notes": "Java自動取得のダウンロードURLバグ修正",
   "pub_date": "2026-04-06T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.1.0/3c.Server.Tool_2.1.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282UzZKWG1qTFdkRGcwaDFObWxGUENyTXk4dE45YzdSME5xdUVTS1RYWkxCUElLZFQzSVZlNXpENHZDWmlCREZFZ2xuOEJrMUNyL21ib1liYUZKd0hTRWdnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NDY4MzIwCWZpbGU6M2MgU2VydmVyIFRvb2xfMi4xLjBfeDY0LXNldHVwLmV4ZQpxR3lBTlJiRUJPUkRROWczcDE5NEg2VFNyUE53cWU0b3hsSWM5T0hxR2MwZ09QMGdHdXZUSnVudWJuaXQ5bVN6YThHaXg5VGErNW1XZVhDaWdMQ0tDZz09Cg=="
+      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.1.1/3c.Server.Tool_2.1.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282U3l2R2dINzlXUkpQZ0lGeTlHeFpsa0czVkpCOVYwaHlmK1h3VzlyenNrdjFUUkdFdDBmNHREdGtLdnRFNUlDeXd5cUZTNWZIRWpIMWJybnBJYUZrYUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NDY4NzY5CWZpbGU6M2MgU2VydmVyIFRvb2xfMi4xLjFfeDY0LXNldHVwLmV4ZQpueW8ra2cvZlZWVlJGQWZZRXYxVUxRajVNdWxTVGRBTUo0M3VsMFJvYjRNUUs5VlR4cVVSNTZWOHgxa0lKOG5rcFBIaSs0eUhrYnNCTHRON2IyNi9Ddz09Cg=="
     }
   }
 }
