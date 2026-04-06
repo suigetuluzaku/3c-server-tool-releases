@@ -1,11 +1,11 @@
 {
-  "version": "2.0.4",
-  "notes": "アップデート時の設定リセット問題を修正",
+  "version": "2.0.5",
+  "notes": "Vanillaサーバーでスナップショット対応",
   "pub_date": "2026-04-05T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.0.4/3c.Server.Tool_2.0.4_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSazlyUUJhYlE0cWdSVjdIZTZqdERyS0Vmckhpb1p5MStrYWhla3phSncvQ1VvcEk3UmFyLy81TFNEdExyMTRoUks4Rk9uTjNUN0h1ajlEWlZGN2pQay9xMm9MMkdYa3dJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1MzQxNzYwCWZpbGU6M2MgU2VydmVyIFRvb2xfMi4wLjRfeDY0LXNldHVwLmV4ZQpYSTN3TldZbStMYVBWbkViNFRJejlCRUtQNFFyOS96akJWOTNmQVJ1a0xmcEtpK3dCbkdKbFVJbWNqb3AyYnVQK1ZralViMXRwZ3B0ak00Y1BSN0RCZz09Cg=="
+      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.0.5/3c.Server.Tool_2.0.5_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSazlyUUJhYlE0cXZHRVZJUjdMUkp2K0RhR0dBNmp1c2IxZVRRblFXVUMyQmwvUHZNdWplZnpYYUVlUFl5dEdISzJsVHBqYjNjRlZoMFBYd0JQVmp3SXRmWDQ4SkdaMVFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NDUxMzkyCWZpbGU6M2MgU2VydmVyIFRvb2xfMi4wLjVfeDY0LXNldHVwLmV4ZQpKUGEwOGVvcVBjdEtURkZNek0rVGV6L04vSWt5Z3lENVFqVkRLZ1QyaUpCUjdjamgweHY1dmM2R24weWNEUzBZZnJHRzlFNWJBbE1hQ3pIckVGTUdDUT09Cg=="
     }
   }
 }
