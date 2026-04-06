@@ -1,11 +1,11 @@
 {
-  "version": "2.0.6",
-  "notes": "サーバーごとのJavaパス設定・Java25以上が必要なバージョンの警告表示",
+  "version": "2.1.0",
+  "notes": "Java自動検知・自動取得機能を追加",
   "pub_date": "2026-04-06T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.0.6/3c.Server.Tool_2.0.6_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSazlyUUJhYlE0cWtJREhpWlpTZXd1aitsUS9aNkdFcWdrZTR3UHZ5ckJyd1RSVHo4K01sendnT1BSay9iSEZvcldRZkNablJ4aXdsUHZuQ2pXd0VWUWUyRGVNYTRIeVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NDUzMjU3CWZpbGU6M2MgU2VydmVyIFRvb2xfMi4wLjZfeDY0LXNldHVwLmV4ZQo0OE5VMkVSak9LaG1DU0ZnRkNCSWd5YTBWTmVuN3BXYTZCbEUyNDdSSHNWTnowZ04vYUNSOXZCRG9hMDBpNnNSY05lVk5TVlE0eXppVTl4K09tTHNEUT09Cg=="
+      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.1.0/3c.Server.Tool_2.1.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSTmlTdXVDcnBmOW4zNWFoRGdlanU3U0lHQVdkUHJvVnd3TWhCTHdvSURZNy9xZ0hUb2NITDRlUW1qSEwvRFVUU1M0WTlKUkNGcWJMbjZRdS91QlBBT1FQWWZ0Y09jN0FZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc1NDY3OTAxCWZpbGU6M2MgU2VydmVyIFRvb2xfMi4xLjBfeDY0LXNldHVwLmV4ZQpRS20yb2NXbmR0VGswQzlGV1Q3RHBCVzE0T0VVdmJzRWtNSXZVTVJ2L2RzNGlHMFFGcDM2OVBraDZOeTNrSWZ5RWlmQ2VuQm9mUG9nRVZXcENHYXpDQT09Cg=="
     }
   }
 }
