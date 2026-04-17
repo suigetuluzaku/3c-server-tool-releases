@@ -1,11 +1,11 @@
 {
-  "version": "2.2.0",
-  "notes": "PrismLauncherインスタンス一覧・起動機能を追加",
+  "version": "2.2.1",
+  "notes": "新規作成モーダル化・インスタンス名自動入力",
   "pub_date": "2026-04-18T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.2.0/3c.Server.Tool_2.2.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282Uy8xYnJ1RVFKVGZSbUJtNFc3V2RnLzAxOFc2TWpxODZ4ekl6NHpvQk1neDF0eDBKbUtwOXo1UitzT3BRZ2dFdHdQSS96bkNyL1VmcXJqR3B5ZnZ2ZEFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDQ3ODk0CWZpbGU6M2MgU2VydmVyIFRvb2xfMi4yLjBfeDY0LXNldHVwLmV4ZQo3UWNaM3hIdjYxMTV1UmpOMitQNFdKSDZiSWdxUFBGcTJ6S2s2TnN3MlIySTBWQmtNVDJBOTZ0c3pGc3FoKzhyVnNtYUFQd2U4akEvQzE5ZHdxNDlBQT09Cg=="
+      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.2.1/3c.Server.Tool_2.2.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282Uzg3K2Z2TUFyOVRtK1VVa0g2U0JwYk9QdTIzOFU2K0tGL3NXV3VuUUJCT2dTcmFzaDdxM0I2OE0xejl0VjN0WEFPNVpad1hGTmlDNEdiVHUvZ0NLeWd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDQ4MzI5CWZpbGU6M2MgU2VydmVyIFRvb2xfMi4yLjFfeDY0LXNldHVwLmV4ZQpVeGVLQjFqMTU4MnZsN3o2ME51c0hiOUhLbElnRGY5enBIKzhQaTBXZnN6dnFHZ2lDSDFtV3ByaDF5RE9TRDVEby9BZjhmVWNFaDlxVmovUE82QzRCdz09Cg=="
     }
   }
 }
