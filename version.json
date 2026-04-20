@@ -1,11 +1,11 @@
 {
-  "version": "2.2.2",
-  "notes": "ナビゲーション整理・ランチャー名称変更",
-  "pub_date": "2026-04-18T00:00:00Z",
+  "version": "2.3.1",
+  "notes": "Fabric最適化機能追加・コマンドブロックデフォルト有効化",
+  "pub_date": "2026-04-20T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.2.2/3c.Server.Tool_2.2.2_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282UzlBVUVpZ2VsL3dyRjBRbnZPZ1B2RUJTdktibmVsSVVSRmRhclpTTzRQN00yWHJWYkN1RUxlQmFZK1FMbyt0SndwUTduVnBkbHoxenFmcUxoZEFSU3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NDQ4ODMzCWZpbGU6M2MgU2VydmVyIFRvb2xfMi4yLjJfeDY0LXNldHVwLmV4ZQpHMjVkUkNBd0IyamxmS2xiMWtQK1dqdWw2YzRoR0VnWVZEZUxoSjVwRXI0cDZiUVpucThKWjg1aXRnalB0Tm8xaWlRcDdLWHJXbW4wL3ltaEg4TmJDQT09Cg=="
+      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.3.1/3c.Server.Tool_2.3.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282U3hkaTNtcFJNTTRGejRNRHczSnlaYnJzR1hvaGVScHBLOWNHamtpeUtZeXE2T2pFekpsOFVEa3RRSG9pSjZva0haODBxbVhidy93TFIwUVp0RTNBalFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NjY4NjU2CWZpbGU6M2MgU2VydmVyIFRvb2xfMi4zLjFfeDY0LXNldHVwLmV4ZQp5WDhoblgwc0s4MlVOeC9DaXR5ZHNkcEFFUDh1Q2xpQWI1THVLb1NpS255andPZXNhZ0FRZGdVdWVBVEwvb3ltS2VRcmNDRkhHamZaaUR2UDdRRjFCUT09Cg=="
     }
   }
 }
