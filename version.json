@@ -1,11 +1,11 @@
 {
-  "version": "2.3.1",
-  "notes": "Fabric最適化機能追加・コマンドブロックデフォルト有効化",
+  "version": "2.3.2",
+  "notes": "Noisium を Forked 版（有志継続版）に差し替え",
   "pub_date": "2026-04-20T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.3.1/3c.Server.Tool_2.3.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282U3hkaTNtcFJNTTRGejRNRHczSnlaYnJzR1hvaGVScHBLOWNHamtpeUtZeXE2T2pFekpsOFVEa3RRSG9pSjZva0haODBxbVhidy93TFIwUVp0RTNBalFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NjY4NjU2CWZpbGU6M2MgU2VydmVyIFRvb2xfMi4zLjFfeDY0LXNldHVwLmV4ZQp5WDhoblgwc0s4MlVOeC9DaXR5ZHNkcEFFUDh1Q2xpQWI1THVLb1NpS255andPZXNhZ0FRZGdVdWVBVEwvb3ltS2VRcmNDRkhHamZaaUR2UDdRRjFCUT09Cg=="
+      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.3.2/3c.Server.Tool_2.3.2_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282U3dRT2JTSEprVGRDSVg5NW4vd29mKytZWnRvWHN5alZ2dUhSTncyVUNJSS9YYmN6aFVhTXcxZ0VqV2RrVUhYeUMzMGt2TEJYOHRnKzlXYVNXQlM3dncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NjY5Mjg5CWZpbGU6M2MgU2VydmVyIFRvb2xfMi4zLjJfeDY0LXNldHVwLmV4ZQpWYlBrUkcrU0JvRTVEU21yRU1TOVVkU2lWWHZ2R0dlTFRvNjhlSmJ6ZGV4OERZSk1BT0NFR2FQejJDbVloaTVFUXdLUU51ZlYvcjZKL0duQk9TZ2lDQT09Cg=="
     }
   }
 }
