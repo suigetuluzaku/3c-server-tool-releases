@@ -1,11 +1,11 @@
 {
-  "version": "2.4.1",
-  "notes": "録画アップロード: 黒ウィンドウ抑止・ON/OFFトグル追加（デフォルトOFF）",
+  "version": "2.4.2",
+  "notes": "録画アップロード: PS1文字化け修正・実行結果表示を改善",
   "pub_date": "2026-05-12T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.4.1/3c.Server.Tool_2.4.1_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282U3c0L1VZd3lUb0luU0dVTkRJWDF3dGVZNTJveWtLM1lRTW14L3JrWXBrVXdYc0Z0U21jd1R5QldVRjRreExpUUhsdjFzaHpKR3JEbGN6WDh0Mlk0M1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTc1MjAzCWZpbGU6M2MgU2VydmVyIFRvb2xfMi40LjFfeDY0LXNldHVwLmV4ZQpqUi9yUExwRDdRRmd5dXZFbUxaU0pBMVZTc3hjOWNzYlFSMlQ5a0NwUGtEZzhUdXQ3ckE3NVNMSmljUVpVYktzdnkyWjlvdlNBNDY2QnF2M3ZCaVZCQT09Cg=="
+      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.4.2/3c.Server.Tool_2.4.2_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282UzM5NWlhM3BFTHFwbHJFakk0TjFZY1dlVWVITlJ6K0ZEWjdPckxiU0ROZWpPdHgrWE85Nktnakg0SW1WY2dLVlp6QmFsTU1WOU1pdWNDazFESGczaWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTc1NjAyCWZpbGU6M2MgU2VydmVyIFRvb2xfMi40LjJfeDY0LXNldHVwLmV4ZQpoNmFkL0NMK2U2ZDdYdllkNW8rdVZVeXhDamhVNmZ0UXRadzdZdWtYOTRQM2NqRVNvMmR5MlBWK3VUZy83bTdjMzhrM3RBYnBvUnV5QnhIMVdwQXFCZz09Cg=="
     }
   }
 }
