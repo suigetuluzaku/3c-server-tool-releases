@@ -1,11 +1,11 @@
 {
-  "version": "2.3.2",
-  "notes": "Noisium を Forked 版（有志継続版）に差し替え",
-  "pub_date": "2026-04-20T00:00:00Z",
+  "version": "2.4.0",
+  "notes": "録画ファイル自動アップロード機能を追加（OBS録画→Dropbox 毎朝自動コピー）",
+  "pub_date": "2026-05-12T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.3.2/3c.Server.Tool_2.3.2_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282U3dRT2JTSEprVGRDSVg5NW4vd29mKytZWnRvWHN5alZ2dUhSTncyVUNJSS9YYmN6aFVhTXcxZ0VqV2RrVUhYeUMzMGt2TEJYOHRnKzlXYVNXQlM3dncwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc2NjY5Mjg5CWZpbGU6M2MgU2VydmVyIFRvb2xfMi4zLjJfeDY0LXNldHVwLmV4ZQpWYlBrUkcrU0JvRTVEU21yRU1TOVVkU2lWWHZ2R0dlTFRvNjhlSmJ6ZGV4OERZSk1BT0NFR2FQejJDbVloaTVFUXdLUU51ZlYvcjZKL0duQk9TZ2lDQT09Cg=="
+      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.4.0/3c.Server.Tool_2.4.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282UzlXeXFNc0lJUmo1WWlteFFwL1VEYlArZlVZTGFSK0ZyV1ZFOGRGYmJzWU0rdWovYkVMbkN4aURPdi9KczR0cHBhSmpMWGJIb1FVRGlZM3NyeWI0RWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTc0OTAyCWZpbGU6M2MgU2VydmVyIFRvb2xfMi40LjBfeDY0LXNldHVwLmV4ZQpadnBJTk1MQWlKQzFlLy95RXB5cXdmYno1d2tVT0dJeFNPMjV0ZUZkWnhsVVRuQkRoL0ZXZlRSb2thR0o5aWYweGtEQk54b1lwT1ZWRTF3ZTYyRnJDQT09Cg=="
     }
   }
 }
