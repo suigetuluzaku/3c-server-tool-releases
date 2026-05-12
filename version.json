@@ -1,11 +1,11 @@
 {
-  "version": "2.4.0",
-  "notes": "録画ファイル自動アップロード機能を追加（OBS録画→Dropbox 毎朝自動コピー）",
+  "version": "2.4.1",
+  "notes": "録画アップロード: 黒ウィンドウ抑止・ON/OFFトグル追加（デフォルトOFF）",
   "pub_date": "2026-05-12T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.4.0/3c.Server.Tool_2.4.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282UzlXeXFNc0lJUmo1WWlteFFwL1VEYlArZlVZTGFSK0ZyV1ZFOGRGYmJzWU0rdWovYkVMbkN4aURPdi9KczR0cHBhSmpMWGJIb1FVRGlZM3NyeWI0RWdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTc0OTAyCWZpbGU6M2MgU2VydmVyIFRvb2xfMi40LjBfeDY0LXNldHVwLmV4ZQpadnBJTk1MQWlKQzFlLy95RXB5cXdmYno1d2tVT0dJeFNPMjV0ZUZkWnhsVVRuQkRoL0ZXZlRSb2thR0o5aWYweGtEQk54b1lwT1ZWRTF3ZTYyRnJDQT09Cg=="
+      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.4.1/3c.Server.Tool_2.4.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282U3c0L1VZd3lUb0luU0dVTkRJWDF3dGVZNTJveWtLM1lRTW14L3JrWXBrVXdYc0Z0U21jd1R5QldVRjRreExpUUhsdjFzaHpKR3JEbGN6WDh0Mlk0M1E0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTc1MjAzCWZpbGU6M2MgU2VydmVyIFRvb2xfMi40LjFfeDY0LXNldHVwLmV4ZQpqUi9yUExwRDdRRmd5dXZFbUxaU0pBMVZTc3hjOWNzYlFSMlQ5a0NwUGtEZzhUdXQ3ckE3NVNMSmljUVpVYktzdnkyWjlvdlNBNDY2QnF2M3ZCaVZCQT09Cg=="
     }
   }
 }
