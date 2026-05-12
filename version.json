@@ -1,11 +1,11 @@
 {
-  "version": "2.4.2",
-  "notes": "録画アップロード: PS1文字化け修正・実行結果表示を改善",
+  "version": "2.4.4",
+  "notes": "自動録画アップロード: タブ名・文言調整、PCスリープ時の注意書き追加",
   "pub_date": "2026-05-12T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.4.2/3c.Server.Tool_2.4.2_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282UzM5NWlhM3BFTHFwbHJFakk0TjFZY1dlVWVITlJ6K0ZEWjdPckxiU0ROZWpPdHgrWE85Nktnakg0SW1WY2dLVlp6QmFsTU1WOU1pdWNDazFESGczaWcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTc1NjAyCWZpbGU6M2MgU2VydmVyIFRvb2xfMi40LjJfeDY0LXNldHVwLmV4ZQpoNmFkL0NMK2U2ZDdYdllkNW8rdVZVeXhDamhVNmZ0UXRadzdZdWtYOTRQM2NqRVNvMmR5MlBWK3VUZy83bTdjMzhrM3RBYnBvUnV5QnhIMVdwQXFCZz09Cg=="
+      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.4.4/3c.Server.Tool_2.4.4_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282U3lJdDArUENsTzBDakt6UkZoYTlDaGRqcHhrR1Ntci95ZDhHUmYwZDUyTSt6a3FETzFDbHZYemdMcG5Hd0tzV2EzdVFRS3ZJdDlVTUh6dGFpcEp0dUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTc2MTg4CWZpbGU6M2MgU2VydmVyIFRvb2xfMi40LjRfeDY0LXNldHVwLmV4ZQo1bWZodDNad1N1ZUNyak9veEVtTnBDMExWbVM3OU1xQnBBMzdSa2hxQ0U4bERudFk5MU5Jd0JxUDVoY1JDQitHM0VCZjNIS0Y4N2d5UVU4UFJHc21BUT09Cg=="
     }
   }
 }
