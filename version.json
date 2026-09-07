@@ -1,11 +1,11 @@
 {
-  "version": "2.5.0",
-  "notes": "Paper新バージョン(26.x)対応・ワールドライブラリ追加",
+  "version": "2.6.0",
+  "notes": "さんちゃんく！ワールドをワンクリック配布・ワールドインポート機能追加",
   "pub_date": "2026-09-08T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.5.0/3c.Server.Tool_2.5.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282UzM1S3YrcjZBUHN3NUJpUVZSQndpWnYwY2hQQ3pJK294Wm4yVXhyZDhKcHZPS3BrYURUVmZIc0Z2RmhsSkJVOEhNQlRvM1F0aHZJWnlYazR0RHRabVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Nzk0MjM3CWZpbGU6M2MgU2VydmVyIFRvb2xfMi41LjBfeDY0LXNldHVwLmV4ZQo2dDJWaENzY1ZVbVM2QlI0L3hEeUt6VGFSVURMNm94UWdYclpIdDhPZHh0WlE2S1Z6ZXJwdDZFZmt4ZXhtSE9uOEpSU3ZWVnBYdksvTHhFMHdVVHhEZz09Cg=="
+      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.6.0/3c.Server.Tool_2.6.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282UzBuNmdMM0dmRVMwNEZDcUQ1cGVNWWdJaEZXMkt2QlRwREZJVDRRU3JkNW9vTzU3SnNPUHV5K3NZR1dBWC9Ja2J0eUxwalY1WXlvdUhRbzJndnpwREFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Nzk1MjQyCWZpbGU6M2MgU2VydmVyIFRvb2xfMi42LjBfeDY0LXNldHVwLmV4ZQo4N0REZ2M4bXhKL0MrL1JOeC9WRjVXL29Jb0dzWGNRT1Y2eHBsWndZMXFOUDFpN0FBODl1UjV6ZGp2bWRKNGcwbkF1Y0I5ZUd6YlhEZnR0b2dVL3BEdz09Cg=="
     }
   }
 }
