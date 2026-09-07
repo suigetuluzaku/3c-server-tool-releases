@@ -1,11 +1,11 @@
 {
-  "version": "2.4.4",
-  "notes": "自動録画アップロード: タブ名・文言調整、PCスリープ時の注意書き追加",
-  "pub_date": "2026-05-12T00:00:00Z",
+  "version": "2.5.0",
+  "notes": "Paper新バージョン(26.x)対応・ワールドライブラリ追加",
+  "pub_date": "2026-09-08T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.4.4/3c.Server.Tool_2.4.4_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282U3lJdDArUENsTzBDakt6UkZoYTlDaGRqcHhrR1Ntci95ZDhHUmYwZDUyTSt6a3FETzFDbHZYemdMcG5Hd0tzV2EzdVFRS3ZJdDlVTUh6dGFpcEp0dUFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc4NTc2MTg4CWZpbGU6M2MgU2VydmVyIFRvb2xfMi40LjRfeDY0LXNldHVwLmV4ZQo1bWZodDNad1N1ZUNyak9veEVtTnBDMExWbVM3OU1xQnBBMzdSa2hxQ0U4bERudFk5MU5Jd0JxUDVoY1JDQitHM0VCZjNIS0Y4N2d5UVU4UFJHc21BUT09Cg=="
+      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.5.0/3c.Server.Tool_2.5.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282UzM1S3YrcjZBUHN3NUJpUVZSQndpWnYwY2hQQ3pJK294Wm4yVXhyZDhKcHZPS3BrYURUVmZIc0Z2RmhsSkJVOEhNQlRvM1F0aHZJWnlYazR0RHRabVFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Nzk0MjM3CWZpbGU6M2MgU2VydmVyIFRvb2xfMi41LjBfeDY0LXNldHVwLmV4ZQo2dDJWaENzY1ZVbVM2QlI0L3hEeUt6VGFSVURMNm94UWdYclpIdDhPZHh0WlE2S1Z6ZXJwdDZFZmt4ZXhtSE9uOEpSU3ZWVnBYdksvTHhFMHdVVHhEZz09Cg=="
     }
   }
 }
