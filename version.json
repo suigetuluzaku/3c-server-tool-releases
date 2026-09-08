@@ -1,11 +1,11 @@
 {
-  "version": "2.6.0",
-  "notes": "さんちゃんく！ワールドをワンクリック配布・ワールドインポート機能追加",
+  "version": "2.7.0",
+  "notes": "メモリ割り当てを後から変更可能に・16G上限を撤廃",
   "pub_date": "2026-09-08T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.6.0/3c.Server.Tool_2.6.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282UzBuNmdMM0dmRVMwNEZDcUQ1cGVNWWdJaEZXMkt2QlRwREZJVDRRU3JkNW9vTzU3SnNPUHV5K3NZR1dBWC9Ja2J0eUxwalY1WXlvdUhRbzJndnpwREFzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4Nzk1MjQyCWZpbGU6M2MgU2VydmVyIFRvb2xfMi42LjBfeDY0LXNldHVwLmV4ZQo4N0REZ2M4bXhKL0MrL1JOeC9WRjVXL29Jb0dzWGNRT1Y2eHBsWndZMXFOUDFpN0FBODl1UjV6ZGp2bWRKNGcwbkF1Y0I5ZUd6YlhEZnR0b2dVL3BEdz09Cg=="
+      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.7.0/3c.Server.Tool_2.7.0_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282UzBpbzVScEJHK3VnVHZRc29HZDRBbUlEOTUvNDZvVDZETnFKT09yRTlEck9tT0U2OUcxWTYwU2gvQ0w0MHlsU1dWVEE3RVZNK2g1SXhwYTBPdnM1MGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODMyOTU3CWZpbGU6M2MgU2VydmVyIFRvb2xfMi43LjBfeDY0LXNldHVwLmV4ZQpkSnNwdzlpNzl5ZjdtWUpyM01pdkpaaHA1eXdpVG5iVzRuc0Z3bXROR2Qra1J5RERmY1VJcExCVHN1SlNRWXZjdWE5TmxET2VLdkNYaWZYN3MxemtBUT09Cg=="
     }
   }
 }
