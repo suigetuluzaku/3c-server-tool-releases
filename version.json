@@ -1,11 +1,11 @@
 {
-  "version": "2.7.0",
-  "notes": "メモリ割り当てを後から変更可能に・16G上限を撤廃",
+  "version": "2.7.1",
+  "notes": "メモリのプリセットが一部しか表示されない問題を修正",
   "pub_date": "2026-09-08T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.7.0/3c.Server.Tool_2.7.0_x64-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282UzBpbzVScEJHK3VnVHZRc29HZDRBbUlEOTUvNDZvVDZETnFKT09yRTlEck9tT0U2OUcxWTYwU2gvQ0w0MHlsU1dWVEE3RVZNK2g1SXhwYTBPdnM1MGdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODMyOTU3CWZpbGU6M2MgU2VydmVyIFRvb2xfMi43LjBfeDY0LXNldHVwLmV4ZQpkSnNwdzlpNzl5ZjdtWUpyM01pdkpaaHA1eXdpVG5iVzRuc0Z3bXROR2Qra1J5RERmY1VJcExCVHN1SlNRWXZjdWE5TmxET2VLdkNYaWZYN3MxemtBUT09Cg=="
+      "url": "https://github.com/suigetuluzaku/3c-server-tool-releases/releases/download/v2.7.1/3c.Server.Tool_2.7.1_x64-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeEVFa1hxS282UysrZ29QVGFnaE55ZjBqS0FLMUFBMWVvZlcxSENOM2ZuakpHWFJhdnh0UVVqbjdkelZSd1VPeUNIbi9Md2s5OXg3bnI0bXRrY2NCMzBDaGRoLzE4WVF3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg4ODQ2MDY2CWZpbGU6M2MgU2VydmVyIFRvb2xfMi43LjFfeDY0LXNldHVwLmV4ZQpabjdFZE5Ba2RzSnVKdzRtaFZHYm9sbTN1eEdLR2ZsRm05MUwwU01JdUlsd2hpQXEvL3FwaFhwN0pvN1lYLzBBenhzMERNdjlmcmpaTXhuTzlqVThDUT09Cg=="
     }
   }
 }
